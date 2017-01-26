@@ -1,0 +1,8 @@
+Origin: Rishanan's Singapore Repo
+Label: Rishanan's Singapore Repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: Where the fun begins
